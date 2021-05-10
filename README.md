@@ -1,1 +1,1 @@
-# intruduction-to-datacamp-projects
+# introduction-to-datacamp-projects
